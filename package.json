@@ -1,0 +1,10 @@
+{
+    "name": "service-reserve-van",
+    "version": "0.0.1",
+    "description": "Service",
+    "main": "index.js",
+    "dependencies": {
+        "express": "^4.16.3",
+        "oracledb": "^2.3.0"
+    }
+}
